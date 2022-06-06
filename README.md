@@ -6,17 +6,19 @@ The files presented include workings on both Supervised and Unsupervised learnin
 
 
 
-How to run the code:
+## How to run the code:
+
 The document can be run locally on RStudio
 
-This project was done, mainly to facilitate learning and practice during the sessions of the course.
+## Why this project was done:
+This project was done, mainly to facilitate learning and practice during the sessions of the course. Much of the learning had been done during the week and was facilitated by technical mentors.
 
-Much of the learning had been done during the week and was facilitated by technical mentors.
-
+## Links
 Below are the links to the publications of the documents.
 
 PART 1 : https://rpubs.com/Vikki_mbaka/910162
 
 PART 2: http://rpubs.com/Vikki_mbaka/911212
 
+## Contributions:
 Note: A person may contribute to this work by hosting the documents on their machine on RStusio, and adding to the code.
